@@ -1,0 +1,8 @@
+{
+  "name": "WapUniverseResources",
+  "version": "0.1.0",
+  "description": "WapUniverse Editor Resources",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+  }
+}
